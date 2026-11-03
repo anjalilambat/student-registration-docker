@@ -1,0 +1,9 @@
+**/.git
+**/.gitignore
+**/.env
+**/*.pem
+**/node_modules
+**/dist
+**/target
+**/.idea
+**/.vscode
