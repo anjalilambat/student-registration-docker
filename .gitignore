@@ -1,0 +1,25 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Java / Maven
+target/
+*.jar
+*.war
+
+# Node / Vite
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
